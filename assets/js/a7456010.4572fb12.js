@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_prompt_archive=globalThis.webpackChunkmy_prompt_archive||[]).push([[1235],{8552:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_prompt_archive=globalThis.webpackChunkmy_prompt_archive||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/gembox/blog","blogTitle":"Blog","authorsListPath":"/gembox/blog/authors"}')}}]);
